@@ -74,12 +74,12 @@ figcaption {
 /*///////MEDIA///////*/
 
 img, video, audio {
-  max-width: 1080%;
+  max-width: 100%;
 }
 
 
 
-/*///////LAYOUT///////*/
+
 
 
 .wrapper {
@@ -121,4 +121,11 @@ clearfix:after {
 
 .first {
   margin-left: 0%;
+}
+
+/*///////SECTIONS///////*/
+
+section {
+  padding: 20px;
+  margin-bottom: 20px;
 }
